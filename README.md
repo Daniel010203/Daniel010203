@@ -17,7 +17,6 @@
 -    ° Fundamentos de ETL (Extract, Transform, Load) com Python.(3h) - DIO
 -    ° Fundamentos e Técnicas de Machine Learning.(8h) - DIO
 -    ° Introduction to Cybersecurity (6horas) - CISCO
-     -    
 - 💞️ I’m looking to collaborate on projetos ligados a Automação de Processos,Análise de Dados,ETL
 - 📫 How to reach me ...https://www.linkedin.com/in/danielvieira-tecnologia-programa%C3%A7%C3%A3o-ia/     | e-mail: daniel.oliveiravieira@hotmail.com
 - 😄 Pronouns: ...
