@@ -1,7 +1,12 @@
-- 👋 Olá, meu nome é Daniel e,após anos trabalhando como Técnico de Segurança do Trabalho estou migrando para a área de Tecnologia da Informação,mas como eu costumo falar, migrando para solucionar problemas com as ferramentas de tecnologia.
-- 👀 Eu tenho muito interesse entender como as coisas funcionam e torna-las mais práticas para o usuário/cliente,visto já ter estado do outro lado e saber como é ruim processos burocráticos e demorados. Agilidade é tudo ! 
-- 🌱 Atualmente eu sou graduando em Análise e Desenvolvimento de Sistemas(UNIASSELVI - 2024) desenvolvo projetos com a linguuagem Python com o uso das seguintes habilidades:IA,SQL,Cybersecurity e me desenvolvendo como Analista de Dados com as ferramntes da BigQuery/Google e Jupyter Notebook/Anaconda. Procuro aplicar os conhecimento da linguagem Python em meus projetos profissionais de acordo com as caracteristicas do projeto.
+Olá,meu nome é Daniel de Oliveira Vieira e venho me apresentar como um profissional dedicado e proativo com oito anos de experiência sólida como Técnico de Segurança do Trabalho, estou em uma desafiante jornada de transição de carreira para a área de tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando aprimorar minhas habilidades e conhecimentos em tecnologia para contribuir de forma significativa para as organizações.
+
+Minha paixão pela tecnologia e minha busca incessante pelo aprendizado me levaram a expandir meus horizontes e explorar novas oportunidades dentro desse campo dinâmico e em constante evolução. Estou comprometido em adquirir conhecimentos em ferramentas e linguagens de programação relevantes, como consta em meu perfil no LinkedIn, a fim de alinhar minhas habilidades com as demandas do mercado e os objetivos das organizações.
+
+Acredito firmemente que minha experiência anterior como Técnico de Segurança do Trabalho me proporcionou habilidades valiosas, como resolução de problemas, resiliência, redução de custos , entregas dentro do prazo e comunicação eficaz, que serão transferíveis e complementares à minha nova jornada na área de tecnologia. Estou ansioso para explorar novos desafios e contribuir para o sucesso das equipes e projetos com minha determinação, ética de trabalho e desejo de crescimento contínuo.
+
+Se você está em busca de um profissional versátil, apaixonado por tecnologia e comprometido com a excelência, estou pronto para fazer parte da sua equipe e ajudar a impulsionar o sucesso da sua organização. Vamos conectar e explorar oportunidades de colaboração mútua!
 - Possuo as seguintes habilidades conquistadas com estudo em renomadas instituições :
+-    ° Big Data & Analytics (60horas) - FIAP
 -    ° Business Intelligence (BI)(40horas) - FIAP
 -    ° Gestão de Infraestrutura de TI (20horas) - FIAP
 -    ° Cybersecurity (120horas) - FIAP
