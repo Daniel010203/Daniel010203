@@ -1,11 +1,22 @@
        Olá,meu nome é Daniel de Oliveira Vieira e venho me apresentar como um profissional dedicado e pró ativo com oito anos de experiência sólida como Técnico de Segurança do Trabalho, estou em uma desafiante jornada de transição de carreira para a área de tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando aprimorar minhas habilidades e conhecimentos em tecnologia para contribuir de forma significativa para as organizações.
 
-Minha paixão pela tecnologia e minha busca incessante pelo aprendizado me levaram a expandir meus horizontes e explorar novas oportunidades dentro desse campo dinâmico e em constante evolução. Estou comprometido em adquirir conhecimentos em ferramentas e linguagens de programação relevantes, como consta em meu perfil no LinkedIn, a fim de alinhar minhas habilidades com as demandas do mercado e os objetivos das organizações.
+Olá,meu nome é Daniel de Oliveira Vieira e venho me apresentar como um profissional dedicado e pró ativo com nove anos de experiência sólida como Técnico de Segurança do Trabalho, estou em uma desafiante jornada de transição de carreira para a área de tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando aprimorar minhas habilidades e conhecimentos em tecnologia para contribuir de forma significativa para as organizações.
 
-Acredito firmemente que minha experiência anterior como Técnico de Segurança do Trabalho me proporcionou habilidades valiosas, como resolução de problemas, resiliência, redução de custos , entregas dentro do prazo e comunicação eficaz, que serão transferíveis e complementares à minha nova jornada na área de tecnologia. Estou ansioso para explorar novos desafios e contribuir para o sucesso das equipes e projetos com minha determinação, ética de trabalho e desejo de crescimento contínuo.
+Segue abaixo minhas habilidades e conhecimento adquiridos até o momento,pois sigo estudando e me aprimorando diáriamente nesta transição de carreira.
 
-Se você está em busca de um profissional versátil, apaixonado por tecnologia e comprometido com a excelência, estou pronto para fazer parte da sua equipe e ajudar a impulsionar o sucesso da sua organização. Vamos conectar e explorar oportunidades de colaboração mútua!
-<!---
-Daniel010203/Daniel010203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+	DESENVOLVEDOR BACK-END PYTHON:
+Programação Python (Avançado) I Estruturas de Dados e POO com Python I Python para Ciência de Dados I Automação de processos(RPA) com Python - PyAutoGui I GIT I Machine Learning I Uso de ferramentas como Numpy e Scikit-Learn I Banco de Dados com SQLAlchemy e Seambor I Conexão com APIs:Uso de ferramenta Requests I  Python para Cybersegurança com as bibliotecas :Socket,Random,Hasllib,Itertools,Beautifulsoup,Requests,Urillib e Phonenumbers.
+
+
+	ANÁLISE DE DADOS / DESENVOLVEDOR SQL / MYSQL
+SQL para Análise de Dados I MySql I Big Data e Analytics I ETL com Python I Business Intelligence I Governança de Dados IAnálise de dados com Pandas(Python) I Júpyter Notebook I Google Colab I Big Query(Google) I Modelagem de Dados I Arquitetura de Banco de Dados.
+
+	CIBERSEGURANÇA:
+Análise de Riscos Cibernéticos I Boas práticas com Cibersegurança I Ferramenta Kali Linux I Virtual Box I Navegação Anônima I Pentest I Investigação de Incidentes de Segurança I Segurança de Rede I Phishing I Técnicas de Engenharia Social I Main in the Middle I Técnicas de Exploração de Vulnerabilidades I Técnicas de Criptografia I Python para Cybersegurança(Bibliotecas) :Socket,Random,Hasllib,Itertools,Beautifulsoup,Requests,Urillib e Phonenumbers. I Defesa Cibernética I Segurança de Redes I Teste de Intrusão I Gestão e Mitigação de Riscos I Gestão de Vulnerabilidades.
+
+	DESENVOLVEDOR RPA:
+Desenvolvedor Uipath I Desenvolvedor Automation Anywhere I Python.
+
+	ANALISTA DE INTELIGÊNCIA ARTIFICIAL E MACHINE LEARNING:
+Engenharia de Prompts I IA como Assistente de Programação I Desenvolvimento de Sistemas Especialistas I Técnicas de Deep Learning I Aprendizado de Máquina I Processamento de Linguagem Natural e Imagens I Algoritmos de IA e ML I Jupyter Notebook I Python para IA e ML I Ráciocinio Lógico.
 --->
