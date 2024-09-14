@@ -33,7 +33,7 @@ A sólida trajetória nas áreas citada acima, desenvolvi habilidades essenciais
     <td style="border: none;">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Daniel010203&show_icons=true&theme=dark&title_color=C00502&icon_color=C00182"
+    srcset="https://github-readme-stats.vercel.app/api?username=Daniel010203&show_icons=true&theme=dark&title_color=C00502&icon_color=C00182"
           media="(prefers-color-scheme: dark)"
         />
         <source
@@ -80,5 +80,4 @@ A sólida trajetória nas áreas citada acima, desenvolvi habilidades essenciais
 ![Inteligência Artificial](https://img.shields.io/badge/-InteligênciaArtificial-181727?style=flat&logo=github&logoColor=white)
 ![BigData](https://img.shields.io/badge/-BigData-181719?style=flat&logo=github&logoColor=white)
 
-### 🌟 Quote
 
