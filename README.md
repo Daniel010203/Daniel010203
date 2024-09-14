@@ -1,25 +1,32 @@
-       Olá,meu nome é Daniel de Oliveira Vieira e venho me apresentar como um profissional dedicado e pró ativo com oito anos de experiência sólida como Técnico de Segurança do Trabalho, estou em uma desafiante jornada de transição de carreira para a área de tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando aprimorar minhas habilidades e conhecimentos em tecnologia para contribuir de forma significativa para as organizações.
+     Profissional com vasta experiência em análise de dados, monitoramento de sistemas e gestão administrativa, atualmente em transição de carreira para a área de Tecnologia da Informação. 
 
-Olá,meu nome é Daniel de Oliveira Vieira e venho me apresentar como um profissional dedicado e pró ativo com nove anos de experiência sólida como Técnico de Segurança do Trabalho, estou em uma desafiante jornada de transição de carreira para a área de tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando aprimorar minhas habilidades e conhecimentos em tecnologia para contribuir de forma significativa para as organizações.
+Um resumo de minhas experiências profissionais:
+Área de Saúde e Segurança do Trabalho:
+Gestão e análise de dados relacionados à Saúde e Segurança do Trabalho utilizando sistemas SAP, HCM/TOTVS e SOC para aproximadamente 1000 funcionários.
+Monitoramento e cadastro de acidentes de trabalho, EPIs, laudos ocupacionais e relatórios de atividades.
+Prospecção de fornecedores e gestão de documentos e NFs para várias unidades operacionais pelo Brasil. 
+Gestão de exames toxicológicos e ocupacionais, garantindo a integridade dos dados e a conformidade com o E-social.
+Desenvolvimento de procedimentos de segurança e análise estatística de acidentes de trabalho.
+Experiência em ambiente SST Petrobrás. 
 
-Segue abaixo minhas habilidades e conhecimento adquiridos até o momento,pois sigo estudando e me aprimorando diáriamente nesta transição de carreira.
+Área de Operações Logísticas:
+Análise de dados logísticos utilizando software Satellite, Excel, Power Point e Microsoft Outlook.
+Monitoramento e rastreamento em tempo real de equipes externas, com intervenções necessárias para otimização de rotas e serviços.
+Controle de numerário em trânsito, assegurando que os valores não ultrapassassem os limites de segurança.Elaboração de relatórios de produtividade e controle de atividades.
 
-	DESENVOLVEDOR BACK-END PYTHON:
-Programação Python (Avançado) I Estruturas de Dados e POO com Python I Python para Ciência de Dados I Automação de processos(RPA) com Python - PyAutoGui I GIT I Machine Learning I Uso de ferramentas como Numpy e Scikit-Learn I Banco de Dados com SQLAlchemy e Seambor I Conexão com APIs:Uso de ferramenta Requests I  Python para Cybersegurança com as bibliotecas :Socket,Random,Hasllib,Itertools,Beautifulsoup,Requests,Urillib e Phonenumbers.
+Área de Operações em Tesouraria:
+Análise de dados bancários e tesouraria para clientes como Itaú, Bradesco e TECBAN.
+Gestão de informações em sistema Satellite, com atualização e configuração de dados de controle de numerário.
+Suporte administrativo em sistemas do Banco Itaú, Bradesco e TECBAN.
+Elaboração e controle de planilhas e relatórios utilizando Excel e Power Point.
 
-
-	ANÁLISE DE DADOS / DESENVOLVEDOR SQL / MYSQL
-SQL para Análise de Dados I MySql I Big Data e Analytics I ETL com Python I Business Intelligence I Governança de Dados IAnálise de dados com Pandas(Python) I Júpyter Notebook I Google Colab I Big Query(Google) I Modelagem de Dados I Arquitetura de Banco de Dados.
-
-	CIBERSEGURANÇA:
-Análise de Riscos Cibernéticos I Boas práticas com Cibersegurança I Ferramenta Kali Linux I Virtual Box I Navegação Anônima I Pentest I Investigação de Incidentes de Segurança I Segurança de Rede I Phishing I Técnicas de Engenharia Social I Main in the Middle I Técnicas de Exploração de Vulnerabilidades I Técnicas de Criptografia I Python para Cybersegurança(Bibliotecas) :Socket,Random,Hasllib,Itertools,Beautifulsoup,Requests,Urillib e Phonenumbers. I Defesa Cibernética I Segurança de Redes I Teste de Intrusão I Gestão e Mitigação de Riscos I Gestão de Vulnerabilidades.
-
-	DESENVOLVEDOR RPA:
-Desenvolvedor Uipath I Desenvolvedor Automation Anywhere I Python.
-
-	ANALISTA DE INTELIGÊNCIA ARTIFICIAL E MACHINE LEARNING:
-Engenharia de Prompts I IA como Assistente de Programação I Desenvolvimento de Sistemas Especialistas I Técnicas de Deep Learning I Aprendizado de Máquina I Processamento de Linguagem Natural e Imagens I Algoritmos de IA e ML I Jupyter Notebook I Python para IA e ML I Ráciocinio Lógico.
---->
+A sólida trajetória nas áreas citada acima, desenvolvi habilidades essenciais em diversos sistemas e ferramentas tecnológicas, o que me impulsiona a buscar novos desafios e oportunidades na área de Tecnologia de Informação, com os seguintes conhecimentos:
+- Ciência de Dados,Cybersegurança e Machine Learning,principalmente com Python.
+- Análise de Dados: Python Avançado I SQL Avançado I Power BI Intermediário I Pandas I MySql I Big Data e Analytics I Excel Avançado I Estatistica I MongoDB I PostgreeSQL.
+- Desenvolvedor RPA: UiPath I Automation Anywhere I Python: Selenium, PyAutoGui.
+- Inteligência Artificial e Machine Learning: Engenharia de Prompts I IA Generativa I PLN I Sistemas Especialistas. 
+- Metodologias ágeis: Scrum e Kamban I Lógica de Programação I Inglês nível Intermediário;
+- DevOps, Cloud ( AWS,Microsoft Azure e GCP), Docker e Kubernetes.
 
 <table>
   <tr style="border: none;">
@@ -30,23 +37,23 @@ Engenharia de Prompts I IA como Assistente de Programação I Desenvolvimento de
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=OTAIMER20&show_icons=true&title_color=C00102&icon_color=C00102"
+          srcset="https://github-readme-stats.vercel.app/api?username=Daniel010203&show_icons=true&title_color=C00102&icon_color=C00102"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api?username=OTAIMER20&show_icons=true&title_color=C00102&icon_color=C00102" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Daniel010203&show_icons=true&title_color=C00102&icon_color=C00102" />
       </picture>
     </td>
     <td style="border: none;">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OTAIMER20&layout=compact&theme=dark&title_color=C00102"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel010203&layout=compact&theme=dark&title_color=C00102"
           media="(prefers-color-scheme: dark)"
         />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OTAIMER20&layout=compact&title_color=C00102"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel010203&layout=compact&title_color=C00102"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTAIMER20&layout=compact&title_color=C00102" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel010203&layout=compact&title_color=C00102" />
       </picture>
     </td>
   </tr>
@@ -54,22 +61,21 @@ Engenharia de Prompts I IA como Assistente de Programação I Desenvolvimento de
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paulo-gabriel-c-j%C3%BAnior-343a65222/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/otaimer_dev/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@OTAIMER_DEV)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/danielvieira-tecnologia-dados-ia/)
+
 
 ### 🛠️ Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/-MachineLearning-61DAFB?style=flat&logo=react&logoColor=black)
+![Ciência de Dados](https://img.shields.io/badge/-CiênciaDeDados?style=flat&logo=express&logoColor=white)
+![Bussines Inteligence](https://img.shields.io/badge/-BussinesInteligence?style=flat&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Análise De Dados](https://img.shields.io/badge/AnáliseDeDados?style=flat&logo=php&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA?style=flat&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
