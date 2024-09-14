@@ -66,16 +66,14 @@ A sólida trajetória nas áreas citada acima, desenvolvi habilidades essenciais
 
 ### 🛠️ Skills
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![AnaliseDeDados](https://img.shields.io/badge/-AnaliseDeDados-E34F36?style=flat&logo=html5&logoColor=white)
+![RPA](https://img.shields.io/badge/-RPA-1572B2?style=flat&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/-MachineLearning-61DAFB?style=flat&logo=react&logoColor=black)
 ![Ciência de Dados](https://img.shields.io/badge/-CiênciaDeDados?style=flat&logo=express&logoColor=white)
 ![Bussines Inteligence](https://img.shields.io/badge/-BussinesInteligence?style=flat&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Análise De Dados](https://img.shields.io/badge/AnáliseDeDados?style=flat&logo=php&logoColor=white)
-![RPA](https://img.shields.io/badge/RPA?style=flat&logo=wordpress&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-2496ED?style=flat&logo=docker&logoColor=white)
 ![Cybersegurança](https://img.shields.io/badge/-Cybersegurança-181717?style=flat&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-181817?style=flat&logo=github&logoColor=white)
