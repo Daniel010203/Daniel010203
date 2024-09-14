@@ -76,8 +76,11 @@ A sólida trajetória nas áreas citada acima, desenvolvi habilidades essenciais
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Análise De Dados](https://img.shields.io/badge/AnáliseDeDados?style=flat&logo=php&logoColor=white)
 ![RPA](https://img.shields.io/badge/RPA?style=flat&logo=wordpress&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-PowerBI-2496ED?style=flat&logo=docker&logoColor=white)
+![Cybersegurança](https://img.shields.io/badge/-Cybersegurança-181717?style=flat&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-181817?style=flat&logo=github&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/-InteligênciaArtificial-181727?style=flat&logo=github&logoColor=white)
+![BigData](https://img.shields.io/badge/-BigData-181719?style=flat&logo=github&logoColor=white)
 
 ### 🌟 Quote
 
