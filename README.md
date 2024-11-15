@@ -1,12 +1,12 @@
-     Profissional com vasta experiência em análise de dados, monitoramento de sistemas e gestão administrativa, atualmente em transição de carreira para a área de Tecnologia da Informação. 
+Profissional em transição de carreira, com vasta experiência em análise de dados, monitoramento de sistemas,gestão administrativa e saúde e segurança do trabalho. 
 
 Um resumo de minhas experiências profissionais:
 Área de Saúde e Segurança do Trabalho:
 Gestão e análise de dados relacionados à Saúde e Segurança do Trabalho utilizando sistemas SAP, HCM/TOTVS e SOC para aproximadamente 1000 funcionários.
 Monitoramento e cadastro de acidentes de trabalho, EPIs, laudos ocupacionais e relatórios de atividades.
 Prospecção de fornecedores e gestão de documentos e NFs para várias unidades operacionais pelo Brasil. 
-Gestão de exames toxicológicos e ocupacionais, garantindo a integridade dos dados e a conformidade com o E-social.
-Desenvolvimento de procedimentos de segurança e análise estatística de acidentes de trabalho.
+Desenvolvimento de procedimentos,treinamentos de segurança e análise estatística de acidentes de trabalho.
+Gestão de equipamentos de combate à incêndio.
 Experiência em ambiente SST Petrobrás. 
 
 Área de Operações Logísticas:
@@ -20,13 +20,13 @@ Gestão de informações em sistema Satellite, com atualização e configuraçã
 Suporte administrativo em sistemas do Banco Itaú, Bradesco e TECBAN.
 Elaboração e controle de planilhas e relatórios utilizando Excel e Power Point.
 
-A sólida trajetória nas áreas citada acima, desenvolvi habilidades essenciais em diversos sistemas e ferramentas tecnológicas, o que me impulsiona a buscar novos desafios e oportunidades na área de Tecnologia de Informação, com os seguintes conhecimentos:
-- Ciência de Dados,Cybersegurança e Machine Learning,principalmente com Python.
-- Análise de Dados: Python Avançado I SQL Avançado I Power BI Intermediário I Pandas I MySql I Big Data e Analytics I Excel Avançado I Estatistica I MongoDB I PostgreeSQL.
-- Desenvolvedor RPA: UiPath I Automation Anywhere I Python: Selenium, PyAutoGui.
-- Inteligência Artificial e Machine Learning: Engenharia de Prompts I IA Generativa I PLN I Sistemas Especialistas. 
-- Metodologias ágeis: Scrum e Kamban I Lógica de Programação I Inglês nível Intermediário;
-- DevOps, Cloud ( AWS,Microsoft Azure e GCP), Docker e Kubernetes.
+Com a sólida trajetória nas áreas citada acima, desenvolvi habilidades essenciais em diversos sistemas e ferramentas tecnológicas, o que me impulsionam a buscar novos e maiores desafios e oportunidades na área Dados e Negócios, com os seguintes conhecimentos:
+- Análise e Ciência de Dados: Python I SQL I Power BI I Pandas I MySql I PostgreeSQL | Data e Analytics I Excel I MongoDB I Jupyter Notebook I Google Analytics I Engenharia de Dados;
+- Desenvolvedor RPA: UiPath I Automation Anywhere I Selenium I PyAutoGui(Python);
+- Inteligência Artificial e Machine Learning;
+- UX I Business Inteligence I Análise SWOT I SAP I TOTVS I Cybersegurança I Auditoria ISO 9001-14001- 45001;
+- Metodologias ágeis I Lógica de Programação I Inglês nível Intermediário;
+- DevOps básico I Cloud( AWS,Microsoft Azure e GCP) I Docker I Kubernetes.
 
 <table>
   <tr style="border: none;">
