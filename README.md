@@ -1,32 +1,60 @@
-Profissional em transição de carreira, com vasta experiência em análise de dados, monitoramento de sistemas,gestão administrativa e saúde e segurança do trabalho. 
 
-Um resumo de minhas experiências profissionais:
-Área de Saúde e Segurança do Trabalho:
-Gestão e análise de dados relacionados à Saúde e Segurança do Trabalho utilizando sistemas SAP, HCM/TOTVS e SOC para aproximadamente 1000 funcionários.
-Monitoramento e cadastro de acidentes de trabalho, EPIs, laudos ocupacionais e relatórios de atividades.
-Prospecção de fornecedores e gestão de documentos e NFs para várias unidades operacionais pelo Brasil. 
-Desenvolvimento de procedimentos,treinamentos de segurança e análise estatística de acidentes de trabalho.
-Gestão de equipamentos de combate à incêndio.
-Experiência em ambiente SST Petrobrás. 
+👋 Bem-vindo ao meu GitHub
 
-Área de Operações Logísticas:
-Análise de dados logísticos utilizando software Satellite, Excel, Power Point e Microsoft Outlook.
-Monitoramento e rastreamento em tempo real de equipes externas, com intervenções necessárias para otimização de rotas e serviços.
-Controle de numerário em trânsito, assegurando que os valores não ultrapassassem os limites de segurança.Elaboração de relatórios de produtividade e controle de atividades.
+Sou um profissional com formação em Técnico em Segurança do Trabalho, Análise e Desenvolvimento de Sistemas e Pós-graduação em Ciência de Dados.  
+Minha trajetória combina experiência prática em Saúde e Segurança do Trabalho, Operações Logísticas e Tesouraria com sólida base em Ciência de Dados e Tecnologia, permitindo transformar informações em insights estratégicos para otimizar processos, reduzir riscos e apoiar decisões corporativas.  
 
-Área de Operações em Tesouraria:
-Análise de dados bancários e tesouraria para clientes como Itaú, Bradesco e TECBAN.
-Gestão de informações em sistema Satellite, com atualização e configuração de dados de controle de numerário.
-Suporte administrativo em sistemas do Banco Itaú, Bradesco e TECBAN.
-Elaboração e controle de planilhas e relatórios utilizando Excel e Power Point.
+---
 
-Com a sólida trajetória nas áreas citada acima, desenvolvi habilidades essenciais em diversos sistemas e ferramentas tecnológicas, o que me impulsionam a buscar novos e maiores desafios e oportunidades na área Dados e Negócios, com os seguintes conhecimentos:
-- Análise e Ciência de Dados: Python I SQL I Power BI I Pandas I MySql I PostgreeSQL | Data e Analytics I Excel I MongoDB I Jupyter Notebook I Google Analytics I Engenharia de Dados;
-- Desenvolvedor RPA: UiPath I Automation Anywhere I Selenium I PyAutoGui(Python);
-- Inteligência Artificial e Machine Learning;
-- UX I Business Inteligence I Análise SWOT I SAP I TOTVS I Cybersegurança I Auditoria ISO 9001-14001- 45001;
-- Metodologias ágeis I Lógica de Programação I Inglês nível Intermediário;
-- DevOps básico I Cloud( AWS,Microsoft Azure e GCP) I Docker I Kubernetes.
+🎓 Formação Acadêmica
+- Técnico em Segurança do Trabalho  
+- Análise e Desenvolvimento de Sistemas  
+- Pós-graduação em Ciência de Dados
+
+---
+
+💼 Experiências Profissionais
+
+🔹 Saúde e Segurança do Trabalho
+- Gestão e análise de dados de SST: acidentes, EPIs, laudos ocupacionais.  
+- Utilização de sistemas: HCM/TOTVS, Moki, SOC, Genu, Qualiex, OnSafety, CheckListFacil, Bernhoeft.  
+- Relatórios e dashboards em Excel Avançado e Power BI, aplicando conceitos de Ciência de Dados para identificar padrões e tendências.  
+- Prospecção de fornecedores e gestão documental em múltiplas unidades operacionais.  
+- Gestão de terceiros, treinamentos de segurança e desenvolvimento de procedimentos.  
+- Experiência em ambientes Hospitalar, Petrobrás, Consultoria, Logística, Varejo, Construção Civil e Energia.  
+
+🔹 Operações Logísticas
+- Análise de dados logísticos com Satellite, WMS, Excel, PowerPoint, Outlook.  
+- Monitoramento e rastreamento em tempo real de equipes externas, com otimização de rotas e serviços.  
+- Controle de numerário em trânsito e relatórios de produtividade.  
+- Aplicação de modelos de análise de dados para melhorar eficiência operacional.  
+
+🔹 Operações em Tesouraria
+- Análise de dados bancários e tesouraria para Itaú, Bradesco e TECBAN.  
+- Gestão de informações em Satellite e suporte administrativo em sistemas bancários.  
+- Elaboração de relatórios e planilhas em Excel e PowerPoint, com foco em visualização de dados e indicadores financeiros.  
+
+---
+
+🛠️ Habilidades Técnicas
+
+- Ciência de Dados | Inteligência Artificial | Business Intelligence | RPA | UX | Infraestrutura de TI  
+- Excel Avançado | Power BI | TOTVS | WMS | Auditoria ISO 9001, 14001, 45001 | Higiene Ocupacional  
+- Metodologias Ágeis | Análise SWOT | Lógica de Programação | DevOps | Cloud (AWS, Azure, GCP)  
+- Cibersegurança | Docker | Kubernetes | SQL | MySQL | PostgreSQL  
+- Linguagens: HTML, CSS, JavaScript, PHP, Java, Python  
+- Idiomas: Inglês Intermediário  
+
+---
+
+📊 Objetivo Profissional
+Unir minha experiência em Saúde e Segurança do Trabalho e Operações Corporativas com a Ciência de Dados, aplicando técnicas avançadas de análise, visualização e inteligência artificial para:  
+- Reduzir riscos e acidentes.  
+- Otimizar processos logísticos e financeiros.  
+- Apoiar decisões estratégicas com base em dados de saúde ocupacional.
+- Aplicar a ciência dos dados em auditorias internas de QSMS.
+
+---
 
 <table>
   <tr style="border: none;">
